@@ -1,25 +1,25 @@
-#🎵 Spotify Music Analysis Dashboard 🎵
+# 🎵 Spotify Music Analysis Dashboard 🎵
 
 Welcome to the Spotify Music Analysis Dashboard repository! This project leverages the powerful data visualization capabilities of Power BI to provide insightful analysis of Spotify's most popular tracks, artists, and trends over time.
 
-#📊 Dashboard Highlights
+# 📊 Dashboard Highlights
 
 - **Top Streamed Track:** Analyze total streams by date, track popularity, and streaming milestones.
 - **Track Features Analysis:** Delve into key track features such as Energy, Danceability, Acousticness, Speechiness, and more.
 - **Artist Insights** Gain insights into the performance of top artists, breaking down their streaming stats.
 - **Monthly Breakdown:** Explore the average streams per month and the distribution of track releases.
   
-#🚀 Key Features
+# 🚀 Key Features
 - **Interactive Visuals:** Fully interactive and filterable charts for a personalized exploration of the data.
 - **Track Details:** Detailed breakdowns for each track, including release dates, streaming numbers, and key musical features.
 - **Top 5 Analysis:** Gain insights into the performance of top artists, breaking down their streaming stats.
 - 
-#🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 - **Power BI:** Used for data visualization and dashboard creation.\
 - **Spotify Data:** The dataset includes track-level data from Spotify, covering various attributes such as streams, release dates, and musical features.
 
-#🎯 Conclusion
+# 🎯 Conclusion
 
 This project showcases how data from the music industry can be transformed into actionable insights using Power BI. Whether you're a data enthusiast, a music lover, or a professional looking to explore trends, this dashboard provides a deep dive into Spotify’s vast music library.
 
